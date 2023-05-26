@@ -2,12 +2,6 @@
 
 Proje Açıklaması: Bu proje, kullanıcının sıralama algoritmalarını ve grafik türlerini kullanarak bir listenin sıralanmasını ve sıralama işleminin adımlarını görsel bir şekilde görmesini sağlayan bir uygulamadır.
 
-<<<<<<< HEAD
-![alt text](C:\Users\sena-\Downloads\görsel1.png)
-=======
-![alt text](https://drive.google.com/file/d/1LQGG8tpw6tfpXLhejnc7h-zN433GKMXh/view?usp=sharing)
->>>>>>> 9db18551a5bc804723024ffac4e4fc79030a5e1f
-
 # Özellikler
 Kullanıcı dostu arayüz ile kolay kullanım
 Farklı sıralama algoritmalarının seçimi
