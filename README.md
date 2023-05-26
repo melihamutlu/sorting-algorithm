@@ -1,30 +1,37 @@
-# Sorting Algorithm Visualizer
+ # "AlgorithmAnimator" Sorting Algorithm Visualizer
 
-<a href="https://www.youtube.com/watch?v=4iM-eggaS2I">
+Proje Açıklaması: Bu proje, kullanıcının sıralama algoritmalarını ve grafik türlerini kullanarak bir listenin sıralanmasını ve sıralama işleminin adımlarını görsel bir şekilde görmesini sağlayan bir uygulamadır.
 
-![algovis](https://github.com/GSAUC3/RajarshiBanerjee/blob/master/images/algovis.gif)
-</a>
-***
-### A gui application to visualize various sorting algorithms using pure python.
-    
-How you can use it: 
-- Fork & clone this repo in your local machine
-- Run the following two commands and you are done. It's that easy.
+![alt text](C:\Users\sena-\Downloads\görsel1.png)
 
-```
-pip install -r requirements.txt
-```
-```
-python main.py
-```
-Or python3 based on the OS you are on. 
-***
-### Sorting algorithms Covered
-- Bubble Sort
-- Insertion Sort
-- Selection Sort
-- Merge Sort
-- Quick Sort
+# Özellikler
+Kullanıcı dostu arayüz ile kolay kullanım
+Farklı sıralama algoritmalarının seçimi
+Farklı grafik türlerinin görselleştirilmesi
+Animasyonlu sıralama adımlarının takibi
+Karşılaştırma sayısının izlenmesi
+Sıralama işleminin karmaşık analiz sonuçlarının görüntülenmesi
 
+# Kullanılan Teknolojiler
 
-***
+-Python programlama dili
+-Matplotlib, Seaborn, Plotly ve Bokeh gibi veri görselleştirme kütüphaneleri
+-Tkinter kullanıcı arayüzü kütüphanesi
+-GitHub platformu
+
+# Kurulum
+
+-Projeyi bilgisayarınıza klonlayın.
+-Gerekli bağımlılıkları yüklemek için pip install -r requirements.txt komutunu çalıştırın.
+-Uygulamayı başlatmak için python main.py komutunu çalıştırın.
+-Kullanım
+-Uygulama başladığında sol panelde sıralanacak liste boyutunu ve sıralama algoritmasını seçin.
+-Grafik türünü seçin ve "Oluştur" butonuna tıklayın.
+-"Başla" butonuna tıklayarak sıralama animasyonunu başlatın.
+-Sıralama işlemi devam ederken adımları takip edin ve karşılaştırma sayısını izleyin.
+-İşlem tamamlandığında sıralanmış liste ve karmaşık analiz sonucu ekranda görüntülenecektir.
+
+# Katkı
+Bu projeye katkıda bulunmak isterseniz, lütfen forklayın ve pull request gönderin.
+Herhangi bir hata veya öneri için sorun açabilirsiniz.
+
