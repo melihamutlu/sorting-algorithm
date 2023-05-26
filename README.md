@@ -1,9 +1,10 @@
- "AlgorithmAnimator" Sorting Algorithm Visualizer
+ # "AlgorithmAnimator" Sorting Algorithm Visualizer
 
 Proje Açıklaması: Bu proje, kullanıcının sıralama algoritmalarını ve grafik türlerini kullanarak bir listenin sıralanmasını ve sıralama işleminin adımlarını görsel bir şekilde görmesini sağlayan bir uygulamadır.
 
+![alt text](https://drive.google.com/file/d/1LQGG8tpw6tfpXLhejnc7h-zN433GKMXh/view?usp=sharing)
 
-Özellikler
+# Özellikler
 Kullanıcı dostu arayüz ile kolay kullanım
 Farklı sıralama algoritmalarının seçimi
 Farklı grafik türlerinin görselleştirilmesi
@@ -11,14 +12,14 @@ Animasyonlu sıralama adımlarının takibi
 Karşılaştırma sayısının izlenmesi
 Sıralama işleminin karmaşık analiz sonuçlarının görüntülenmesi
 
-Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 -Python programlama dili
 -Matplotlib, Seaborn, Plotly ve Bokeh gibi veri görselleştirme kütüphaneleri
 -Tkinter kullanıcı arayüzü kütüphanesi
 -GitHub platformu
 
-Kurulum
+# Kurulum
 
 -Projeyi bilgisayarınıza klonlayın.
 -Gerekli bağımlılıkları yüklemek için pip install -r requirements.txt komutunu çalıştırın.
@@ -30,7 +31,7 @@ Kurulum
 -Sıralama işlemi devam ederken adımları takip edin ve karşılaştırma sayısını izleyin.
 -İşlem tamamlandığında sıralanmış liste ve karmaşık analiz sonucu ekranda görüntülenecektir.
 
-Katkı
+# Katkı
 Bu projeye katkıda bulunmak isterseniz, lütfen forklayın ve pull request gönderin.
 Herhangi bir hata veya öneri için sorun açabilirsiniz.
 
