@@ -1,4 +1,4 @@
-# Sorting Algorithm Visualizer
+# "AlgorithmAnimator" Sorting Algorithm Visualizer
 
 <a href="https://www.youtube.com/watch?v=4iM-eggaS2I">
 
