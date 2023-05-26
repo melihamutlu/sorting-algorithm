@@ -2,6 +2,8 @@
 
 Proje Açıklaması: Bu proje, kullanıcının sıralama algoritmalarını ve grafik türlerini kullanarak bir listenin sıralanmasını ve sıralama işleminin adımlarını görsel bir şekilde görmesini sağlayan bir uygulamadır.
 
+![uygulama](https://github.com/senademirbass/sorting-algorithm/blob/main/g%C3%B6rsel1.png)
+
 # Özellikler
 Kullanıcı dostu arayüz ile kolay kullanım
 Farklı sıralama algoritmalarının seçimi
